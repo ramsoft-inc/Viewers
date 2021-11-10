@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/ramsoft-inc/RapidResults
             azure-pipeline-name: 'RapidResults-Mono.runtime_terror'
-            azure-devops-token: kwxj2oh7467nsnszhhcz6mvwetk656zrhrt75di2j5lngmtblrlq
+            azure-devops-token: 
